@@ -1,3 +1,5 @@
 flask
 opencv-python
 
+openai
+plz make sure the root directory is ok
